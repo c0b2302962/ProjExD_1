@@ -22,7 +22,7 @@ def main():
         screen.blit(kk_img, [300, 200])
         pg.display.update()
         tmr += 1        
-        clock.tick(200)
+        clock.tick(200)#aaS
 
 
 if __name__ == "__main__":
